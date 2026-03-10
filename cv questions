@@ -1,0 +1,340 @@
+1️⃣ HR / Introductory Questions
+
+These are usually asked first.
+
+Tell me about yourself.
+
+Explain your current role in Tata Consultancy Services.
+
+What is your role in the London Stock Exchange Group project?
+
+Why do you want to change your job?
+
+What are your key strengths as a Site Reliability Engineer?
+
+What production issues have you handled recently?
+
+Describe a major incident you resolved.
+
+What is your on-call experience?
+
+How do you handle high pressure incidents in production?
+
+Where do you see yourself in the next 3 years?
+
+2️⃣ Site Reliability / Production Support Questions
+
+These are very common for your profile.
+
+What is Site Reliability Engineering (SRE)?
+
+What is SLA, SLO, and SLI?
+
+How do you handle P1 incidents?
+
+What steps do you follow for Root Cause Analysis (RCA)?
+
+What is failover and failback?
+
+How do you monitor production systems?
+
+What logs do you check during an incident?
+
+What is runbook automation?
+
+How do you ensure high availability?
+
+What is incident management workflow?
+
+3️⃣ Linux Questions (Very Important)
+
+Because you worked as a System Administrator.
+
+Explain the Linux boot process.
+
+Difference between hard link and soft link.
+
+What is LVM?
+
+How to check CPU, memory, and disk usage?
+
+What happens when disk is 100% full?
+
+What is inode?
+
+Difference between top, vmstat, iostat.
+
+How do you troubleshoot high CPU usage?
+
+How do you check running services?
+
+What is systemctl?
+
+Example command questions:
+
+top
+df -h
+free -m
+ps -ef
+netstat -tulpn
+4️⃣ DevOps / CI-CD Questions
+
+Based on your Jenkins, GitLab, Docker, Kubernetes experience.
+
+Git
+
+Difference between git fetch and git pull.
+
+What is git rebase?
+
+What is git tag?
+
+What is merge conflict?
+
+Jenkins
+
+What is Jenkins pipeline?
+
+Difference between declarative and scripted pipeline.
+
+What is multibranch pipeline?
+
+How do you trigger Jenkins jobs?
+
+Docker
+
+What is Docker?
+
+Difference between Docker image and container.
+
+What is Dockerfile?
+
+What is multi-stage build?
+
+What is bind mount vs volume?
+
+Kubernetes
+
+What is Kubernetes?
+
+What is Pod?
+
+Difference between Deployment and StatefulSet.
+
+What is Service in Kubernetes?
+
+How do you scale pods?
+
+5️⃣ Cloud (AWS) Questions
+
+Since you mentioned AWS services.
+
+What is VPC?
+
+Difference between Security Group and NACL.
+
+What is Auto Scaling?
+
+What is Elastic Load Balancer?
+
+Difference between EBS and S3.
+
+What is IAM role?
+
+What is cross region deployment?
+
+What is SNS vs SQS?
+
+6️⃣ Monitoring Tools Questions
+
+You mentioned Datadog and CloudWatch.
+
+What metrics do you monitor in Datadog?
+
+How do alerts work in Amazon Web Services CloudWatch?
+
+What is log monitoring?
+
+How do you detect memory leaks?
+
+7️⃣ Scenario-Based Questions (Very Common)
+
+Interviewers love these.
+
+Scenario 1
+
+Production website is slow. What will you check first?
+
+Scenario 2
+
+CPU usage is 100% on server. What steps will you take?
+
+Scenario 3
+
+Application is not reachable after deployment.
+
+Scenario 4
+
+One Kubernetes pod keeps restarting.
+
+Scenario 5
+
+Jenkins pipeline failed during deployment.
+
+💡 Important:
+Based on your resume, interviewers will mostly focus on:
+
+Linux troubleshooting
+
+Production incidents
+
+CI/CD pipelines
+
+Docker/Kubernetes
+
+AWS basics
+
+Monitoring tools
+
+✅ If you want, I can also prepare:
+
+30 MOST ASKED DEVOPS INTERVIEW QUESTIONS for your resume
+
+Perfect “Tell me about yourself” answer
+
+Real DevOps scenario questions asked in interviews
+
+Mock interview (like real interview practice)
+
+Just tell me 👍
+
+30 MOST ASKED DEVOPS INTERVIEW QUESTIONS for your resume
+
+Based on your resume (SRE + Production Support + Linux + AWS + CI/CD + Docker/Kubernetes with 8.5 years experience at Tata Consultancy Services), these are 30 very commonly asked DevOps interview questions that interviewers are likely to ask you.
+
+I grouped them so preparation becomes easier.
+
+30 Most Asked DevOps Interview Questions (Based on Your Resume)
+1️⃣ Basic DevOps Concepts
+
+What is DevOps and why is it important?
+
+What are the key principles of DevOps?
+
+What is the difference between DevOps and SRE (Site Reliability Engineering)?
+
+What are CI and CD?
+
+What are the benefits of CI/CD pipelines?
+
+2️⃣ Linux (Very Important for Your Profile)
+
+How do you troubleshoot a server with high CPU usage?
+
+How do you check memory utilization in Linux?
+
+What steps do you take if a server disk becomes full?
+
+Difference between hard link and soft link.
+
+What is LVM and why is it used?
+
+Common commands interviewers expect:
+
+top
+htop
+df -h
+free -m
+ps -ef
+netstat -tulpn
+3️⃣ Git Questions
+
+Difference between git fetch and git pull.
+
+What is git rebase?
+
+What is git tag and when do we use it?
+
+How do you resolve merge conflicts?
+
+What is git stash?
+
+4️⃣ Jenkins / CI-CD Questions
+
+What is Jenkins pipeline?
+
+What is the difference between declarative pipeline and scripted pipeline?
+
+What is multibranch pipeline in Jenkins?
+
+How do you trigger Jenkins builds automatically?
+
+How do you secure credentials in Jenkins?
+
+5️⃣ Docker Questions
+
+What is Docker and why do we use it?
+
+Difference between Docker image and container.
+
+What is a Dockerfile?
+
+What is Docker volume vs bind mount?
+
+What is a multi-stage Docker build?
+
+6️⃣ Kubernetes Questions
+
+What is Kubernetes?
+
+What is a Pod?
+
+Difference between Deployment and StatefulSet.
+
+What is Kubernetes Service and its types?
+
+How do you scale applications in Kubernetes?
+
+Bonus Questions (Very Likely for Your Profile)
+
+Because your resume mentions AWS, Monitoring, and Production Support, you may also get:
+
+What is VPC in Amazon Web Services?
+
+Difference between Security Group and NACL.
+
+What is Auto Scaling?
+
+How do you monitor systems using Datadog?
+
+What is CloudWatch alarm?
+
+Important Scenario Questions (Interviewers Love These)
+
+You will almost certainly get questions like:
+
+Production application is down. What will you check first?
+
+One Kubernetes pod keeps restarting. How will you troubleshoot?
+
+Jenkins pipeline failed during deployment. What will you do?
+
+CPU usage suddenly spiked to 100%. How will you investigate?
+
+Application logs are not generated. How will you debug?
+
+
+
+Tell Me About Yourself (Best Answer)
+
+“Hello, my name is Pankaj Kumar. I have around 8.5 years of experience in IT, primarily in Site Reliability Engineering, Production Support, and System Administration.
+
+Currently, I am working with Tata Consultancy Services in Bangalore as a Site Reliability Engineer, supporting applications for the London Stock Exchange Group project. In my current role, I focus on ensuring high availability, reliability, and performance of production systems. My responsibilities include monitoring production environments, responding to incidents, performing root cause analysis, and implementing preventive measures.
+
+I also work with CI/CD pipelines using Jenkins and GitLab, and I have hands-on experience with Docker and Kubernetes for containerized application management. Additionally, I have experience with AWS services such as EC2, S3, VPC, IAM, and Auto Scaling to support scalable cloud infrastructure.
+
+Before this role, I worked as an Application Support Engineer and System Administrator, where I managed Linux servers, performed system monitoring, automation using shell scripts, and handled deployments and infrastructure support.
+
+Overall, my core strengths are Linux administration, production support, automation, monitoring, and DevOps practices. I enjoy solving complex production issues and improving system reliability through automation and better monitoring.
+
+Currently, I am looking for opportunities where I can further grow in DevOps and Site Reliability Engineering, and contribute to building scalable and reliable systems.”
